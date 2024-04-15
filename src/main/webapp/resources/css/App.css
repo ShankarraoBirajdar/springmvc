@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.div-1 {
+	height: 75px;
+	margin: 5px;
+	border: 1px solid;
+	background-color: #FBD603;
+}
+
+.div-2 {
+	height: 250px;
+	width: 300px;
+	margin: 5px;
+	border: 1px solid;
+	background-color: #ABBAEA;
+}
